@@ -1,0 +1,314 @@
+State Name,Dist Name,SOIL TYPE PERCENT (Percent),Year_Rainfall,JANUARY NORMAL RAINFALL (Millimeters),FEBRUARY NORMAL RAINFALL (Millimeters),MARCH NORMAL RAINFALL (Millimeters),APRIL NORMAL RAINFALL (Millimeters),MAY NORMAL RAINFALL (Millimeters),JUNE NORMAL RAINFALL (Millimeters),JULY NORMAL RAINFALL (Millimeters),AUGUST NORMAL RAINFALL (Millimeters),SEPTEMBER NORMAL RAINFALL (Millimeters),OCTOBER NORMAL RAINFALL (Millimeters),NOVEMBER NORMAL RAINFALL (Millimeters),DECEMBER NORMAL RAINFALL (Millimeters),ANNUAL NORMAL RAINFALL (Millimeters)
+Chhattisgarh,Durg,LOAMY ALFISOLS - 60% ; USTALF/USTOLLS - 40%,Average 30 years,16,27,19,19,21,200,340,344,212,61,14,4,1277
+Chhattisgarh,Bastar,LOAMY ALFISOL - 100%,Average 30 years,5,15,17,51,66,212,398,381,246,116,24,4,1535
+Chhattisgarh,Raipur,USTALF/USTOLLS - 50% ; LOAMY ALFISOLS - 25% ; VERTISOLS - 15%,Average 30 years,12,20,23,15,17,194,392,394,249,62,8,2,1388
+Chhattisgarh,Bilaspur,USTALF/USTOLLS - 100%,Average 30 years,17,30,22,17,18,191,381,387,194,52,13,5,1327
+Chhattisgarh,Raigarh,USTALF/USTOLLS - 100%,Average 30 years,18,16,21,8,14,168,475,508,341,57,1,1,1628
+Chhattisgarh,Surguja,USTALF/USTOLLS - 100%,Average 30 years,22,22,21,9,15,143,435,465,224,47,1,2,1406
+Madhya Pradesh,Jabalpur,VERTIC SOILS - 85% ; VERTISOLS - 15%,Average 30 years,26,22,15,9,15,170,505,401,212,50,17,5,1447
+Madhya Pradesh,Balaghat,VERTIC SOILS - 85% ; VERTISOLS - 15%,Average 30 years,20,35,25,19,14,191,508,450,126,61,16,9,1474
+Madhya Pradesh,Chhindwara,VERTIC SOILS - 85% ; VERTISOLS - 15%,Average 30 years,23,2,13,13,13,146,319,283,188,69,22,3,1094
+Madhya Pradesh,Narsinghpur,VERTISOLS - 80% ; VERTIC SOILS - 20%,Average 30 years,28,18,13,10,15,177,567,474,292,66,24,5,1690
+Madhya Pradesh,Seoni / Shivani,VERTIC SOILS - 85% ; VERTISOLS - 15%,Average 30 years,25,24,23,21,23,207,479,345,194,76,25,5,1447
+Madhya Pradesh,Mandla,VERTIC SOILS - 85% ; VERTISOLS - 15%,Average 30 years,29,15,28,16,8,132,480,420,214,71,9,3,1425
+Madhya Pradesh,Sagar,VERTIC SOILS - 50% ; VERTISOLS - 50%,Average 30 years,30,13,10,4,8,145,463,419,228,44,24,7,1395
+Madhya Pradesh,Damoh,VERTIC SOILS - 60% ; VERTISOLS - 40%,Average 30 years,22,16,11,7,11,119,392,363,209,39,19,10,1218
+Madhya Pradesh,Tikamgarh,VERTIC SOILS - 100%,Average 30 years,22,15,10,3,8,108,351,344,190,31,12,7,1100
+Madhya Pradesh,Chhatarpur,VERTIC SOILS - 80% ; INCEPTISOLS - 20%,Average 30 years,23,17,8,2,7,90,342,341,169,29,10,6,1044
+Madhya Pradesh,Panna,VERTIC SOILS - 100%,Average 30 years,31,21,13,8,10,124,377,346,192,42,15,7,1186
+Madhya Pradesh,Rewa,VERTIC SOILS - 60% ; INCEPTISOLS - 25% ; USTALF/USTOLLS - 15%,Average 30 years,20,19,11,4,6,109,354,329,184,27,11,5,1079
+Madhya Pradesh,Sidhi,USTALF/USTOLLS - 75% ; VERTIC SOILS - 25%,Average 30 years,24,23,16,7,10,123,353,354,207,42,10,5,1174
+Madhya Pradesh,Satna,VERTIC SOILS - 100%,Average 30 years,36,23,14,10,11,126,356,320,176,47,13,6,1138
+Madhya Pradesh,Shahdol,VERTIC SOILS - 60% ; USTALF/USTOLLS - 40%,Average 30 years,33,27,21,12,12,151,401,393,216,50,14,6,1335
+Madhya Pradesh,Gwalior,VERTIC SOILS - 100%,Average 30 years,18,8,8,3,9,84,274,259,192,35,2,8,900
+Madhya Pradesh,Shivpuri,VERTIC SOILS - 100%,Average 30 years,20,9,10,4,12,120,382,371,200,28,13,8,1179
+Madhya Pradesh,Guna,VERTIC SOILS - 100%,Average 30 years,20,9,11,5,14,130,389,382,214,24,15,9,1222
+Madhya Pradesh,Datia,VERTIC SOILS - 100%,Average 30 years,18,11,9,3,8,97,293,299,187,36,4,7,973
+Madhya Pradesh,Morena,VERTIC SOILS - 100%,Average 30 years,15,6,9,2,10,71,306,350,112,39,4,3,927
+Madhya Pradesh,Bhind,VERTIC SOILS - 100%,Average 30 years,10,5,15,9,9,143,343,295,235,59,20,3,1148
+Madhya Pradesh,Indore,VERTIC SOILS - 100%,Average 30 years,8,1,4,4,13,147,316,267,221,48,22,3,1054
+Madhya Pradesh,Ratlam,VERTIC SOILS - 100%,Average 30 years,10,2,3,2,12,98,311,342,237,58,3,0,1078
+Madhya Pradesh,Ujjain,VERTIC SOILS - 100%,Average 30 years,11,2,4,3,11,123,335,318,220,46,13,3,1088
+Madhya Pradesh,Mandsaur,VERTIC SOILS - 100%,Average 30 years,11,3,4,3,6,108,319,301,164,31,9,2,962
+Madhya Pradesh,Dewas,VERTIC SOILS - 100%,Average 30 years,10,2,7,4,11,142,343,273,218,44,21,4,1079
+Madhya Pradesh,Dhar,VERTIC SOILS - 100%,Average 30 years,7,1,1,2,11,140,289,225,186,32,17,4,915
+Madhya Pradesh,Jhabua,VERTIC SOILS - 100%,Average 30 years,3,1,2,1,9,112,253,201,150,25,8,3,768
+Madhya Pradesh,Khargone / West Nimar,VERTIC SOILS - 100%,Average 30 years,6,2,3,2,12,139,273,208,178,40,22,4,888
+Madhya Pradesh,Khandwa / East Nimar,VERTIC SOILS - 100%,Average 30 years,8,4,6,2,10,143,310,216,186,45,27,4,961
+Madhya Pradesh,Sehore,VERTIC SOILS - 60% ; VERTISOLS - 40%,Average 30 years,13,4,9,4,10,139,394,306,229,39,17,6,1169
+Madhya Pradesh,Raisen,VERTIC SOILS - 80% ; VERTISOLS - 20%,Average 30 years,24,14,10,5,11,161,544,457,293,49,20,6,1595
+Madhya Pradesh,Vidisha,VERTIC SOILS - 60% ; VERTISOLS - 40%,Average 30 years,23,10,10,4,11,141,449,385,237,36,18,8,1331
+Madhya Pradesh,Betul,VERTIC SOILS - 85% ; VERRTISOLS - 15%,Average 30 years,8,2,18,10,9,138,320,296,240,68,19,1,1129
+Madhya Pradesh,Rajgarh,VERTIC SOILS - 100%,Average 30 years,16,5,8,4,11,129,389,336,209,32,14,7,1157
+Madhya Pradesh,Shajapur,VERTIC SOILS - 90% ; VERTISOLS - 10%,Average 30 years,13,3,6,4,11,133,365,309,216,38,16,5,1117
+Madhya Pradesh,Hoshangabad,VERTIC SOILS - 100%,Average 30 years,16,10,8,4,8,153,468,398,261,37,16,6,1385
+Andhra Pradesh,Srikakulam,ORTHIDS - 100%,Average 30 years,8,18,15,26,53,119,162,189,229,192,83,10,1104
+Andhra Pradesh,Visakhapatnam,ORTHIDS - 50% ; SANDY ALFISOL - 50%,Average 30 years,7,15,9,13,54,88,122,132,167,259,91,18,975
+Andhra Pradesh,East Godavari,ORTHIDS - 65% ; SANDY ALFISOL - 35%,Average 30 years,8,9,12,20,42,122,190,145,151,238,136,15,1088
+Andhra Pradesh,West Godavari,ORTHIDS - 50% ; SANDY ALFISOL - 50%,Average 30 years,3,13,10,18,48,148,214,200,169,159,73,7,1062
+Andhra Pradesh,Krishna,ORTHIDS - 50% ; LOAMY ALFISOLS - 50%,Average 30 years,5,15,13,18,39,94,177,152,162,234,138,18,1065
+Andhra Pradesh,Guntur,ORTHIDS - 40% ; VERTISOLS - 30% ; SANDY ALFISOL - 30%,Average 30 years,4,9,8,15,32,92,116,117,143,115,44,9,704
+Andhra Pradesh,S.P.S. Nellore,ORTHIDS - 60% ; SANDY ALFISOL - 40%,Average 30 years,32,7,7,10,37,37,71,76,110,266,317,88,1058
+Andhra Pradesh,Kurnool,SANDY ALFISOL - 60% ; VERTIC SOILS - 40%,Average 30 years,4,8,5,14,30,76,106,103,146,78,29,6,605
+Andhra Pradesh,Ananthapur,SANDY ALFISOL - 100%,Average 30 years,3,5,4,16,57,41,38,71,122,92,41,7,497
+Andhra Pradesh,Kadapa YSR,SANDY ALFISOL - 100%,Average 30 years,11,3,6,13,39,72,107,121,155,108,95,18,748
+Andhra Pradesh,Chittoor,SANDY ALFISOL - 80%; ORTHIDS - 20%,Average 30 years,5,2,4,36,59,54,86,75,113,166,61,36,697
+Telangana,Hyderabad,SANDY ALFISOL - 100%,Average 30 years,2,11,13,24,30,107,105,147,163,71,25,6,704
+Telangana,Nizamabad,VERTIC SOILS - 85% ; VERTISOLS - 15%,Average 30 years,5,17,14,21,20,149,317,261,23,65,14,3,909
+Telangana,Medak,SANDY ALFISOL - 75% ; VERTIC SOILS - 25%,Average 30 years,9,11,12,24,23,124,178,165,199,62,22,6,835
+Telangana,Mahabubnagar,VERTISOLS - 40% ; VERTIC SOILS - 20% ; SANDY ALFISOL - 40%,Average 30 years,6,10,7,17,29,112,176,146,185,74,26,4,792
+Telangana,Nalgonda,SANDY ALFISOL - 100%,Average 30 years,6,9,6,21,32,102,138,129,171,105,36,8,763
+Telangana,Warangal,SANDY ALFISOL - 40% ; VERTIC SOILS - 35% ; ORTHIDS - 25%,Average 30 years,9,14,11,23,29,146,228,175,190,68,27,5,925
+Telangana,Khammam,VERTISOLS - 60% ; SANDY ALFISOLS - 40%,Average 30 years,6,14,13,43,41,168,299,258,187,84,28,7,1148
+Telangana,Karimnagar,VERTIC SOLS - 70% ; VERTISOLS - 30%,Average 30 years,6,22,13,21,22,150,220,170,173,55,21,7,880
+Telangana,Adilabad,VERTIC SOILS - 50% ; SANDY ALFISOL - 50%,Average 30 years,6,21,14,19,18,157,289,203,183,65,13,4,992
+Karnataka,Bangalore,SANDY ALFISOL - 100%,Average 30 years,3,10,6,46,117,80,117,147,143,185,54,16,924
+Karnataka,Kolar,SANDY ALFISOL - 100%,Average 30 years,10,9,10,31,83,58,72,93,137,133,82,16,734
+Karnataka,Tumkur,SANDY ALFISOL - 100%,Average 30 years,6,3,5,21,77,46,46,75,113,117,47,7,563
+Karnataka,Mysore,SANDY ALFISOL - 100%,Average 30 years,4,10,15,70,139,89,182,106,84,131,75,15,920
+Karnataka,Mandya,SANDY ALFISOL - 100%,Average 30 years,4,5,7,44,112,39,31,61,122,158,79,12,674
+Karnataka,Hassan,SANDY ALFISOL - 100%,Average 30 years,2,7,15,60,112,87,145,107,100,181,63,13,892
+Karnataka,Shimoge,SANDY ALFISOL - 100%,Average 30 years,0,0,11,53,118,151,276,126,82,174,47,7,1045
+Karnataka,Chickmagalur,SANDY ALFISOL - 85% ; UDUPTS/UDALFS - 15%,Average 30 years,4,4,12,66,111,417,821,425,205,185,65,19,2334
+Karnataka,Chitradurga,SANDY ALFISOL - 85% ; VERTISOLS - 15%,Average 30 years,1,5,3,32,85,62,73,97,96,135,49,16,654
+Karnataka,Bellary,SANDY ALFISOL - 70% ; VERTIC SOILS - 30%,Average 30 years,2,2,4,24,61,43,48,80,110,109,31,5,519
+Karnataka,Dharwad,VERTIC SOILS - 70% ; VERTISOLS - 30%,Average 30 years,2,2,9,48,75,95,174,121,102,125,48,12,813
+Karnataka,Belgaum,VRTIC SOILS - 70% ; VERTISOLS - 30%,Average 30 years,1,2,12,58,93,223,519,303,121,175,37,7,1551
+Karnataka,Bijapur / Vijayapura,VERTISOLS - 50% ; VERTIC SOILS - 50%,Average 30 years,3,1,9,26,39,68,79,85,135,97,26,5,573
+Karnataka,Bidar,VERTIC SOILS - 100%,Average 30 years,2,7,17,27,29,147,243,186,212,74,30,3,977
+Karnataka,Raichur,VERTISOLS - 60% ; VERTIC SOILS - 40%,Average 30 years,1,6,4,13,28,103,139,135,168,94,25,3,719
+Karnataka,Gulbarga / Kalaburagi,VERTIC SOILS - 55% ; VERTISOLS - 45%,Average 30 years,1,5,11,17,40,110,151,143,178,71,24,2,753
+Karnataka,Dakshina Kannada,UDUPTS/UDALFS - 70% ; ORTHIDS - 30%,Average 30 years,5,2,9,40,233,982,1059,577,267,206,71,18,3469
+Karnataka,Uttara Kannada,VERTIC SOILS - 50% ; UDUPTS/UDALFS - 30% ; ORTHIDS - 20%,Average 30 years,2,2,7,33,78,107,163,100,103,123,43,11,773
+Karnataka,Kodagu / Coorg,SANDY ALFISOL - 85% ; UDUPTS/UDALFS - 15%,Average 30 years,5,6,21,81,160,614,1106,724,332,204,78,15,3346
+Tamil Nadu,Chengalpattu MGR / Kanchipuram,ORTHIDS - 100%,Average 30 years,30,20,12,7,10,114,359,340,181,43,13,7,1134
+Tamil Nadu,South Arcot / Cuddalore,ORTHIDS - 85% ; SANDY ALFISOL - 15%,Average 30 years,66,19,24,68,24,6,9,12,16,175,308,196,923
+Tamil Nadu,North Arcot / Vellore,SANDY ALFISOL - 85% ; ORTHIDS - 15%,Average 30 years,19,6,8,25,80,77,90,106,152,169,160,77,969
+Tamil Nadu,Salem,SANDY ALFISOL - 100%,Average 30 years,9,12,15,55,93,82,105,143,142,186,89,34,965
+Tamil Nadu,Coimbatore,SANDY ALFISOL - 100%,Average 30 years,11,7,9,61,69,34,42,34,37,149,125,34,612
+Tamil Nadu,Tiruchirapalli / Trichy,ORTHIDS - 25% ; SANDY ALFISOL - 75%,Average 30 years,18,8,8,70,80,34,41,105,108,170,156,71,869
+Tamil Nadu,Thanjavur,ORTHIDS - 100%,Average 30 years,57,25,22,55,56,29,48,62,62,224,458,239,1337
+Tamil Nadu,Madurai,SANDY ALFISOL - 100%,Average 30 years,26,16,21,81,59,31,48,117,123,179,161,43,905
+Tamil Nadu,Ramananthapuram,ORTHIDS - 100%,Average 30 years,52,20,25,55,30,9,23,39,42,197,251,131,874
+Tamil Nadu,Thirunelveli,SANDY ALFISOL - 100%,Average 30 years,39,26,31,81,42,6,7,23,20,140,174,97,686
+Tamil Nadu,The Nilgiris,SANDY ALFISOL - 100%,Average 30 years,26,12,30,109,173,139,177,128,110,213,127,59,1303
+Tamil Nadu,Kanyakumari,ORTHIDS - 100%,Average 30 years,27,22,38,104,171,208,134,109,81,224,198,84,1400
+Maharashtra,Bombay,UDUPTS/UDALFS - 35% ; VERTISOLS - 35% ; VERTIC SOILS - 30%,Average 30 years,2,1,0,3,16,520,710,439,297,88,21,2,2099
+Maharashtra,Thane,VERTIC SOILS - 55% ; ORTHIDS - 45%,Average 30 years,1,0,0,0,9,597,936,544,427,94,9,0,2617
+Maharashtra,Raigad,VERTIC SOILS - 45% ; ORTHIDS - 35% ; UDUPTS/UDALFS - 20%,Average 30 years,2,1,2,12,30,509,967,635,346,110,36,4,2655
+Maharashtra,Ratnagiri,UDUPTS/UDALFS - 50% ; ORTHIDS - 50%,Average 30 years,0,0,0,3,32,916,969,661,239,169,34,2,3025
+Maharashtra,Nasik,VERTIC SOILS - 85% ; VERTISOLS - 15%,Average 30 years,4,3,1,4,15,110,109,95,154,56,36,4,591
+Maharashtra,Dhule,VERTIC SOILS - 65% ; VERTISOLS - 35%,Average 30 years,4,2,2,3,13,126,200,153,160,46,25,4,738
+Maharashtra,Jalgaon,VERTIC SOILS - 65% ; VERTISOLS - 35%,Average 30 years,5,2,5,2,13,143,242,194,159,48,22,6,841
+Maharashtra,Ahmednagar,VERTIC SOILS - 60% ; VERTISOLS - 40%,Average 30 years,3,0,5,11,26,131,102,98,175,84,33,8,676
+Maharashtra,Pune,VERTIC SOILS - 65% ; VERTISOLS - 35%,Average 30 years,2,0,3,18,35,103,187,106,127,92,37,5,715
+Maharashtra,Satara,UDUPTS/UDALFS - 60% ; VERTISOLS - 40%,Average 30 years,3,1,4,24,45,133,400,199,130,124,49,7,1119
+Maharashtra,Sangli,VERTIC SOILS - 75% ; VERTISOLS - 25%,Average 30 years,3,1,7,25,49,67,115,80,96,89,31,8,571
+Maharashtra,Solapur,VERTIC SOILS - 60% ; ORTHIDS - 40%,Average 30 years,4,2,7,16,26,109,128,140,184,92,28,7,743
+Maharashtra,Kolhapur,VERTISOLS - 50% ; VERTIC SOILS - 50%,Average 30 years,0,1,9,33,77,163,375,213,103,122,40,1,1137
+Maharashtra,Aurangabad,VERTIC SOILS - 80% ; VERTISOLS - 20%,Average 30 years,3,3,4,7,17,141,189,140,179,62,32,9,786
+Maharashtra,Parbhani,VERTIC SOILS - 75% ; VERTISOLS - 25%,Average 30 years,4,6,6,13,22,144,226,175,207,64,31,7,905
+Maharashtra,Beed,VERTIC SOILS - 100%,Average 30 years,7,6,6,8,14,112,121,108,211,51,33,8,685
+Maharashtra,Nanded,VERTIC SOILS - 60% ; VERTISOLS - 40%,Average 30 years,8,13,7,9,14,152,223,205,210,47,21,6,915
+Maharashtra,Osmanabad,VERTIC SOILS - 100%,Average 30 years,5,4,7,17,21,148,161,149,211,54,24,8,809
+Maharashtra,Buldhana,VERTIC SOILS - 75% ; VERTISOLS - 25%,Average 30 years,9,0,8,10,17,172,223,205,195,48,12,2,901
+Maharashtra,Akola,VERTIC SOILS - 60% ; VERTISOLS -40%,Average 30 years,9,8,8,7,11,146,261,170,178,46,28,6,878
+Maharashtra,Amarawati,VERTIC SOILS - 85% ; VERTISOLS - 15%,Average 30 years,15,13,12,13,12,149,286,210,186,50,24,6,976
+Maharashtra,Yeotmal,VERTIC SOILS - 100%,Average 30 years,12,1,20,18,14,196,302,284,224,58,2,2,1133
+Maharashtra,Wardha,VERTIC SOILS - 100%,Average 30 years,12,11,18,16,15,185,326,276,209,59,15,5,1144
+Maharashtra,Nagpur,VERTIC SOILS - 100%,Average 30 years,11,23,17,16,21,222,376,286,185,55,20,10,1242
+Maharashtra,Bhandara,VERTIC SOILS - 100%,Average 30 years,5,21,22,17,11,181,404,363,235,73,14,3,1349
+Maharashtra,Chandrapur,VERTIC SOILS - 100%,Average 30 years,9,21,18,25,20,200,494,387,219,64,15,2,1474
+Gujarat,Ahmedabad,USTALF/USTOLLS - 100%,Average 30 years,4,0,1,2,5,100,316,213,163,13,5,1,823
+Gujarat,Amreli,ORTHIDS - 100%,Average 30 years,2,0,1,11,8,99,200,141,104,28,8,5,607
+Gujarat,Banaskantha,USTALF/USTOLLS - 100%,Average 30 years,2,4,1,1,9,43,264,229,89,7,2,2,652
+Gujarat,Bharuch,VERTISOLS - 60% ; ORTHIDS - 25% ; VERTIC SOLS - 15%,Average 30 years,1,0,2,2,17,154,333,228,208,56,1,0,1002
+Gujarat,Vadodara / Baroda,VERTIC SOILS - 55% ; VERTISOLS - 45%,Average 30 years,2,2,1,3,4,115,366,264,186,35,9,0,987
+Gujarat,Bhavnagar,ORTHIDS - 75% ; VERTIC SOILS - 25%,Average 30 years,3,1,3,13,6,14,243,152,122,38,7,0,602
+Gujarat,Valsad,VERTIC SOILS - 60% ; ORTHIDS - 40%,Average 30 years,1,1,1,2,12,340,555,337,289,73,14,1,1625
+Gujarat,Dangs,VERTIC SOILS - 100%,Average 30 years,2,1,1,2,14,241,385,251,230,66,18,2,1212
+Gujarat,Jamnagar,ORTHIDS - 50% ; VERTIC SOILS - 50%,Average 30 years,1,1,0,0,8,63,216,126,62,10,3,1,491
+Gujarat,Junagadh,ORTHIDS - 50% ; VERTIC SOILS - 50%,Average 30 years,1,1,0,5,5,135,305,146,67,29,7,1,702
+Gujarat,Kheda,USTALF/USTOLLS - 60% ; VERTIC SOILS - 40%,Average 30 years,2,1,1,2,5,116,323,254,176,36,10,1,929
+Gujarat,Kutch,ORTHIDS - 85% ; VERTI SOLS - 15%,Average 30 years,3,5,1,1,8,22,164,96,38,7,2,2,349
+Gujarat,Mehsana,USTALF/USTOLLS - 100%,Average 30 years,1,2,1,1,7,35,237,144,68,7,2,2,507
+Gujarat,Panchmahal,VERTIC SOILS - 100%,Average 30 years,3,1,2,2,7,105,293,227,160,23,8,2,833
+Gujarat,Rajkot,VERTIC SOILS - 80% ; VERTISOLS - 20%,Average 30 years,1,0,1,3,7,99,293,143,93,25,5,4,674
+Gujarat,Sabarkantha,VERTIC SOILS - 50% ; USTALF/USTOLLS - 50%,Average 30 years,4,2,2,2,7,95,326,262,158,17,7,2,885
+Gujarat,Surat,VERTISOLS - 60% ; ORTHIDS - 20% ; VERTIC SOILS - 20%,Average 30 years,1,1,1,5,6,210,448,256,218,43,16,2,1207
+Gujarat,Surendranagar,USTALF/USTOLLS - 60% ; VERTIC SOILS - 40%,Average 30 years,2,1,1,4,8,70,232,143,104,21,11,3,601
+Rajasthan,Ajmer,INCEPTISOLS - 60% ; PSSAMENTS - 40%,Average 30 years,12,6,6,3,9,67,187,175,71,17,4,2,559
+Rajasthan,Alwar,INCEPTISOLS - 100%,Average 30 years,12,7,7,4,10,56,238,248,112,22,4,5,725
+Rajasthan,Banswara,VERTIC SOILS - 100%,Average 30 years,4,2,3,1,6,96,313,313,172,18,7,3,938
+Rajasthan,Barmer,PSSAMENTS - 100%,Average 30 years,5,4,3,3,9,22,87,139,33,2,2,2,311
+Rajasthan,Bharatpur,INCEPTISOLS - 85% ; VERTIC OSILS - 15%,Average 30 years,15,7,6,5,8,55,230,235,130,20,5,6,722
+Rajasthan,Bhilwara,VERTIC SOILS - 100%,Average 30 years,5,3,5,3,11,64,236,226,85,11,4,5,658
+Rajasthan,Bikaner,PSSAMENTS - 100%,Average 30 years,6,7,6,5,8,27,87,105,45,6,3,2,307
+Rajasthan,Bundi,VERTIC SOILS - 100%,Average 30 years,9,5,6,4,8,69,273,258,110,17,5,4,768
+Rajasthan,Chittorgarh,VERTIC SOILS - 100%,Average 30 years,10,3,4,4,7,93,312,281,140,20,7,3,885
+Rajasthan,Churu,PSSAMENTS - 100%,Average 30 years,10,6,8,4,11,35,105,101,46,13,4,3,346
+Rajasthan,Dungarpur,VERTIC SOILS - 100%,Average 30 years,3,1,3,2,8,93,263,194,127,15,5,1,715
+Rajasthan,Ganganagar,PSSAMENTS - 100%,Average 30 years,15,9,14,6,12,36,69,77,50,3,2,7,300
+Rajasthan,Jaipur,INCEPTISOLS - 100%,Average 30 years,14,8,9,4,10,54,193,239,90,19,3,4,647
+Rajasthan,Jaisalmer,PSSAMENTS - 100%,Average 30 years,2,1,3,2,5,7,90,86,14,1,5,2,218
+Rajasthan,Jalore,PSSAMENTS - 100%,Average 30 years,5,5,2,2,9,50,325,357,123,7,4,2,892
+Rajasthan,Jhalawar,VERTIC SOILS - 100%,Average 30 years,14,3,4,4,6,111,357,327,164,18,10,6,1024
+Rajasthan,Jhunjhunu,INCEPTISOLS - 50% ; PSSAMNETS - 50%,Average 30 years,11,7,9,3,12,40,137,119,60,16,5,4,423
+Rajasthan,Jodhpur,PSSAMENTS - 100%,Average 30 years,7,5,2,2,6,31,122,146,47,7,3,2,380
+Rajasthan,Kota,VERTIC SOILS - 100%,Average 30 years,9,4,5,5,7,79,309,268,132,15,6,3,842
+Rajasthan,Nagaur,PSSAMNETS - 85% ; INCEPTISOLS - 15%,Average 30 years,9,5,5,3,9,44,128,136,50,13,3,2,409
+Rajasthan,Pali,PSSAMENTS - 100%,Average 30 years,3,3,2,2,9,42,113,156,62,6,2,1,401
+Rajasthan,Swami Madhopur,VERTIC SOILS - 85% ; INCEPTISOLS - 15%,Average 30 years,12,7,8,4,10,59,245,256,119,23,4,5,753
+Rajasthan,Sikar,INCEPTISOLS - 50% ; PSSAMNETS - 50%,Average 30 years,9,3,5,3,17,44,155,126,43,27,6,3,441
+Rajasthan,Sirohi,PSSAMNETS - 100%,Average 30 years,5,5,3,2,9,74,455,478,182,11,6,2,1233
+Rajasthan,Tonk,INCEPTISOLS - 100%,Average 30 years,10,6,7,4,9,61,242,243,97,17,4,4,703
+Rajasthan,Udaipur,PSSAMENTS - 30% ; VERTIC SOILS - 70%,Average 30 years,9,4,4,3,5,87,197,207,120,16,6,3,661
+Punjab,Gurdaspur,INCEPTISOLS - 100%,Average 30 years,92,42,55,19,17,58,444,436,171,115,10,27,1486
+Punjab,Amritsar,INCEPTISOLS - 100%,Average 30 years,38,11,26,10,11,32,169,168,106,54,10,15,650
+Punjab,Kapurthala,INCEPTISOLS - 100%,Average 30 years,35,23,25,8,10,41,194,181,126,42,6,17,708
+Punjab,Jalandhar,INCEPTISOLS - 100%,Average 30 years,51,33,35,13,15,51,306,288,160,58,6,23,1041
+Punjab,Hoshiarpur,INCEPTISOLS - 100%,Average 30 years,65,43,47,20,21,68,397,371,189,58,7,27,1315
+Punjab,Roopnagar / Ropar,INCEPTISOLS - 100%,Average 30 years,42,40,25,10,13,65,246,248,150,31,7,14,890
+Punjab,Ludhiana,INCEPTISOLS - 100%,Average 30 years,35,34,29,11,10,54,188,175,119,34,3,14,706
+Punjab,Ferozpur,INCEPTISOLS - 20% ; PSSAMENTS - 80%,Average 30 years,35,12,22,4,6,34,153,125,97,26,9,14,537
+Punjab,Bhatinda,PSSAMENTS - 100%,Average 30 years,48,30,33,13,13,45,266,257,143,53,7,22,928
+Punjab,Sangrur,INCEPTISOLS - 100%,Average 30 years,38,33,28,11,13,54,217,202,130,33,4,17,779
+Punjab,Patiala,INCEPTISOLS - 100%,Average 30 years,45,19,18,7,12,56,228,286,134,44,10,11,870
+Haryana,Hissar,PSSAMENTS - 100%,Average 30 years,19,15,17,6,11,34,122,114,81,15,8,5,447
+Haryana,Gurgaon,INCEPTISOLS - 100%,Average 30 years,13,11,10,4,11,43,143,127,97,8,2,5,474
+Haryana,Jind,INCEPTISOLS - 50% ; PSSAMENTS - 505,Average 30 years,27,18,15,8,13,47,164,166,111,23,6,8,606
+Haryana,Mahendragarh / Narnaul,INCEPTISOLS - 100%,Average 30 years,14,11,10,4,10,40,139,124,83,10,4,5,454
+Haryana,Ambala,INCEPTISOLS - 100%,Average 30 years,42,52,28,12,15,72,272,250,168,27,6,15,959
+Haryana,Karnal,INCEPTISOLS - 100%,Average 30 years,40,22,23,9,8,60,152,230,131,71,7,8,761
+Haryana,Rohtak,INCEPTISOLS - 100%,Average 30 years,19,17,12,8,14,49,143,119,108,12,2,8,511
+Uttar Pradesh,Saharanpur,INCEPTISOLS - 100%,Average 30 years,43,47,28,11,17,91,337,329,206,39,3,13,1164
+Uttar Pradesh,Muzaffarnagar,INCEPTISOLS - 100%,Average 30 years,31,32,16,7,14,84,244,220,154,22,3,12,839
+Uttar Pradesh,Meerut,UDOLLS/UDALFS - 100%,Average 30 years,30,30,15,8,9,71,247,229,152,37,2,8,838
+Uttar Pradesh,Buland Shahar,INCEPTISOLS - 100%,Average 30 years,19,19,12,10,15,69,211,207,140,33,3,6,745
+Uttar Pradesh,Aligarh,INCEPTISOLS - 100%,Average 30 years,18,15,14,11,12,68,227,216,153,36,2,2,774
+Uttar Pradesh,Mathura,INCEPTISOLS - 100%,Average 30 years,13,12,10,8,11,53,203,215,139,26,2,5,696
+Uttar Pradesh,Agra,INCEPTISOLS - 100%,Average 30 years,16,9,11,5,10,60,210,263,152,24,2,4,766
+Uttar Pradesh,Mainpuri,INCEPTISOLS - 100%,Average 30 years,17,9,12,6,11,64,196,247,152,40,2,6,762
+Uttar Pradesh,Etah,INCEPTISOLS - 100%,Average 30 years,16,15,10,6,11,65,214,230,140,25,2,6,741
+Uttar Pradesh,Bareilly,INCEPTISOLS - 100%,Average 30 years,25,22,14,8,15,102,346,297,172,62,3,5,1071
+Uttar Pradesh,Budaun,INCEPTISOLS - 100%,Average 30 years,21,22,12,6,15,89,268,263,152,34,2,6,891
+Uttar Pradesh,Moradabad,INCEPTISOLS - 100%,Average 30 years,29,32,18,11,17,96,279,265,158,37,2,10,953
+Uttar Pradesh,Shahjahanpur,INCEPTISOLS - 100%,Average 30 years,35,17,18,6,17,117,337,310,174,56,2,4,1093
+Uttar Pradesh,Pilibhit,INCEPTISOLS - 100%,Average 30 years,39,28,24,13,26,124,345,314,178,72,3,9,1173
+Uttar Pradesh,Rampur,INCEPTISOLS - 100%,Average 30 years,34,35,22,14,23,109,321,295,172,54,3,11,1093
+Uttar Pradesh,Bijnor,INCEPTISOLS - 100%,Average 30 years,30,33,18,11,17,96,281,266,159,37,2,10,959
+Uttar Pradesh,Farrukhabad,INCEPTISOLS - 100%,Average 30 years,23,13,12,4,10,80,252,276,163,28,3,6,871
+Uttar Pradesh,Etawah,INCEPTISOLS - 100%,Average 30 years,14,13,8,8,7,53,25,252,143,19,5,6,553
+Uttar Pradesh,Kanpur,INCEPTISOLS - 100%,Average 30 years,23,15,9,5,6,69,225,291,191,43,7,7,892
+Uttar Pradesh,Fatehpur,INCEPTISOLS - 100%,Average 30 years,20,17,10,6,5,67,289,280,144,39,2,6,885
+Uttar Pradesh,Allahabad,INCEPTISOLS - 100%,Average 30 years,20,22,14,5,8,102,275,333,195,40,7,6,1027
+Uttar Pradesh,Jhansi,INCEPTISOLS - 100%,Average 30 years,17,14,11,3,8,105,298,309,190,32,5,7,999
+Uttar Pradesh,Jalaun,INCEPTISOLS - 100%,Average 30 years,21,5,8,2,7,106,273,372,159,89,1,2,1045
+Uttar Pradesh,Hamirpur,INCEPTISOLS - 100%,Average 30 years,23,14,9,3,6,84,300,343,150,56,4,4,998
+Uttar Pradesh,Banda,INCEPTISOLS - 100%,Average 30 years,23,13,10,2,7,72,280,380,142,70,4,2,1005
+Uttar Pradesh,Varanasi,INCEPTISOLS - 80% ; UDUPTS/UDALFS - 20%,Average 30 years,25,22,12,4,12,92,306,342,226,60,10,3,1114
+Uttar Pradesh,Mirzpur,INNCEPTISOLS - 60% ; UDUPTS/UDALFS - 40%,Average 30 years,24,19,14,4,9,106,329,323,225,45,11,4,1112
+Uttar Pradesh,Jaunpur,INCEPTISOLS -100%,Average 30 years,22,15,12,3,11,107,328,285,238,43,11,4,1079
+Uttar Pradesh,Ghazipur,INCEPTISOLS - 100%,Average 30 years,15,18,8,5,12,123,277,290,200,49,7,5,1008
+Uttar Pradesh,Ballia,INCEPTISOLS - 100%,Average 30 years,18,16,11,9,21,143,294,300,217,48,7,3,1085
+Uttar Pradesh,Gorakhpur,INCEPTISOLS - 100%,Average 30 years,19,14,11,11,41,186,342,315,253,74,5,3,1274
+Uttar Pradesh,Deoria,INCEPTISOLS - 100%,Average 30 years,19,15,15,20,50,188,346,296,221,60,5,3,1237
+Uttar Pradesh,Basti,INCEPTISOLS - 100%,Average 30 years,21,16,10,9,30,159,348,320,245,66,5,4,1234
+Uttar Pradesh,Azamgarh,INCEPTISOLS - 100%,Average 30 years,22,9,16,3,8,103,274,290,261,50,9,3,1048
+Uttar Pradesh,Lucknow,INCEPTISOLS - 100%,Average 30 years,24,17,9,6,12,94,299,302,182,40,1,6,992
+Uttar Pradesh,Unnao,INCEPTISOLS - 100%,Average 30 years,27,14,11,4,9,77,262,302,187,42,5,6,946
+Uttar Pradesh,Rae-Bareily,INCEPTISOLS - 100%,Average 30 years,21,16,11,5,11,80,298,311,183,41,4,5,987
+Uttar Pradesh,Sitapur,INCEPTISOLS - 100%,Average 30 years,37,13,15,3,18,127,330,305,176,71,1,3,1099
+Uttar Pradesh,Hardoi,INCEPTISOLS - 100%,Average 30 years,39,10,18,1,9,124,335,324,186,12,2,2,1062
+Uttar Pradesh,Kheri,INCEPTISOLS - 100%,Average 30 years,44,12,19,2,24,135,329,305,158,101,1,2,1132
+Uttar Pradesh,Faizabad,INCEPTISOLS - 100%,Average 30 years,21,17,10,7,21,135,341,316,236,54,6,5,1169
+Uttar Pradesh,Gonda,INCEPTISOLS - 100%,Average 30 years,27,16,11,8,27,158,372,353,250,65,2,5,1294
+Uttar Pradesh,Bahraich,INCEPTISOLS - 100%,Average 30 years,28,17,12,7,23,142,361,285,210,83,2,7,1177
+Uttar Pradesh,Sultanpur,INCEPTISOLS - 100%,Average 30 years,21,17,11,5,15,117,325,317,225,46,6,5,1111
+Uttar Pradesh,Pratapgarh,INCEPTISOLS - 100%,Average 30 years,20,18,12,5,10,99,302,312,206,39,7,6,1035
+Uttar Pradesh,Barabanki,INCEPTISOLS - 100%,Average 30 years,26,16,11,5,16,113,327,313,200,53,2,5,1089
+Uttarakhand,Nainital,INCEPTISOLS - 85% ; UDOLLS/UDALFS - 15%,Average 30 years,58,56,45,34,51,143,332,338,197,79,4,23,1360
+Uttarakhand,Almorah,UDOLLS/UDALFS - 85% ; INCEPTISOLS - 15%,Average 30 years,59,61,43,31,54,151,332,312,172,62,4,24,1305
+Uttarakhand,Pithorgarh,INCEPTISOLS - 1005,Average 30 years,61,58,45,32,57,162,332,301,171,75,4,23,1321
+Uttarakhand,Chamoli,UDOLLS/UDALFS - 100%,Average 30 years,66,71,51,36,63,165,341,303,156,54,6,29,1338
+Uttarakhand,Uttar Kashi,UDOLLS/UDALFS - 100%,Average 30 years,73,79,67,39,57,165,516,499,224,49,9,34,1811
+Uttarakhand,Tehri Garhwal,UDOLLS/UDALFS - 100%,Average 30 years,66,72,54,32,55,169,479,459,211,48,6,29,1681
+Uttarakhand,Garhwal,INCEPTISOLS - 55% ; UDOLLS/UDALFS - 45%,Average 30 years,56,61,40,25,47,150,399,381,194,50,4,22,1430
+Uttarakhand,Dehradun,UDOLLS/UDALFS - 60% ; INCEPTISOLS - 40%,Average 30 years,62,59,40,17,42,186,703,765,327,71,5,19,2296
+Assam,Cachar,FLUVENTS-OCHREPTS,Average 30 years,17,47,155,30,440,628,476,537,398,195,44,9,2976
+Assam,Darrang,USTALFS-OCHREPTS,Average 30 years,17,30,60,193,287,408,412,351,273,116,34,10,2193
+Assam,Dibrugarh,FLUVENTS-OCHREPTS,Average 30 years,26,63,116,365,319,467,514,442,343,144,29,15,2843
+Assam,Goalpara,USTALFS-OCHREPTS,Average 30 years,10,20,47,166,399,621,752,403,379,145,14,4,2959
+Assam,Kamrup,USTALFS-OCHREPTS,Average 30 years,10,30,56,82,319,451,399,340,329,93,16,6,2130
+Assam,Karbi Anglong,USTALFS-OCHREPTS,Average 30 years,16,45,154,70,414,681,490,452,372,195,66,8,2962
+Assam,Lakhimpur,FLUVENTS-OCHREPTS,Average 30 years,26,63,116,310,319,467,514,442,343,144,29,15,2788
+Assam,North Cachar Hil / Dima hasao,USTALFS-OCHREPTS,Average 30 years,16,45,154,130,414,681,490,452,372,195,66,8,3022
+Assam,Nagaon,USTALFS-OCHREPTS,Average 30 years,12,28,81,84,194,294,347,324,231,100,19,9,1722
+Assam,Sibsagar,FLUVENTS-OCHREPTS,Average 30 years,38,47,95,176,271,350,404,373,283,120,27,13,2196
+Himachal Pradesh,Bilashpur,UDALFS,Average 30 years,90,61,57,26,46,111,333,299,156,31,14,34,1258
+Himachal Pradesh,Chamba,UDALFS,Average 30 years,118,109,137,79,70,97,339,297,147,53,26,55,1527
+Himachal Pradesh,Kangra,UDALFS-OCHREPTS,Average 30 years,90,76,84,38,43,129,586,506,247,49,14,46,1908
+Himachal Pradesh,Kinnaur,,Average 30 years,100,104,108,76,59,30,47,49,57,34,18,52,734
+Himachal Pradesh,Kullu,UDALFS,Average 30 years,64,60,91,53,57,84,223,182,101,30,9,31,985
+Himachal Pradesh,Lahul & Spiti,,Average 30 years,146,141,192,115,101,53,162,135,105,61,32,65,1308
+Himachal Pradesh,Solan,UDALFS,Average 30 years,80,70,72,30,53,139,391,338,170,51,15,36,1445
+Himachal Pradesh,Mandi,UDALFS-OCHREPTS,Average 30 years,77,67,81,46,55,156,428,393,163,37,17,31,1551
+Himachal Pradesh,Shimla,UDALFS-OCHREPTS,Average 30 years,70,58,76,44,64,118,276,213,112,35,13,26,1105
+Himachal Pradesh,Sirmaur,UDALFS,Average 30 years,60,47,44,17,20,139,527,537,201,53,10,34,1689
+Kerala,Alappuzha,PSAMMENTS-OCHREPTS,Average 30 years,25,27,56,129,323,637,547,327,271,333,228,61,2964
+Kerala,Kannur,FLUVENTS-ORTHENTS,Average 30 years,4,4,8,64,244,891,1085,570,249,226,99,23,3467
+Kerala,Eranakulam,PSAMMENTS-ORTHENTS,Average 30 years,15,17,41,134,318,740,721,451,288,312,172,45,3254
+Kerala,Kottayam,USTALFS-TROPEPTS,Average 30 years,24,24,52,125,310,697,640,400,285,331,188,55,3131
+Kerala,Kozhikode,FLUVENTS-ORTHENTS,Average 30 years,9,7,21,93,297,925,1034,547,257,284,157,36,3667
+Kerala,Malappuram,FLUVENTS-ORTHENTS,Average 30 years,5,7,21,86,221,688,797,399,205,291,157,30,2907
+Kerala,Palakkad,ORTHENTS-TROPEPTS,Average 30 years,8,9,27,87,161,477,633,349,165,249,136,28,2329
+Kerala,Kollam,DYSTROPEPTS-ORTHENTS,Average 30 years,24,31,75,166,242,487,428,273,212,350,216,60,2564
+Kerala,Thrissur,PSAMMENTS-ORTHENTS,Average 30 years,7,10,27,86,296,769,759,443,257,301,144,31,3130
+Kerala,Thiruvananthapuram,DYSTROPEPTS-ORTHENTS,Average 30 years,22,19,45,120,225,377,279,157,170,280,182,67,1943
+Orissa,Balasore,USTALF/USTOLLS - 100%,Average 30 years,17,31,38,48,98,234,318,335,287,230,45,9,1690
+Orissa,Bolangir,LOAMY ALFISOLS - 55% ; ORTHIDS - 45%,Average 30 years,8,10,23,14,41,212,417,452,316,88,6,1,1588
+Orissa,Cuttack,LOAMY ALFISOLS - 60% ; ORTHIDS - 50%,Average 30 years,10,29,20,27,72,215,355,365,252,168,41,5,1559
+Orissa,Dhenkanal,LOAMY ALFISOLS - 60% ; USTALF/USTOLLS- 40%,Average 30 years,14,34,19,32,159,219,360,339,233,103,35,5,1552
+Orissa,Ganjam,ORTHIDS - 40% ; SANDY ALFISOL - 60%,Average 30 years,8,22,22,15,51,141,193,200,185,379,80,15,1311
+Orissa,Kalahandi,USTALF/USTOLLS - 70% ; LOAMY ALFISOLS - 30%,Average 30 years,7,10,21,45,67,199,364,414,250,111,20,4,1511
+Orissa,Keonjhar,USTALF/USTOLLS - 65% ; LOAMY ALFISOLS - 35%,Average 30 years,23,36,19,48,95,195,367,300,213,91,30,5,1422
+Orissa,Koraput,LOAMY ALFISOLS - 80% ; SANDY ALFISOL - 20%,Average 30 years,7,2,18,48,70,212,425,488,245,134,19,3,1671
+Orissa,Mayurbhanja,USTALF/USTOLLS - 65% ; LOAMY ALFISOLS - 35%,Average 30 years,8,17,14,10,58,174,248,211,230,286,87,17,1361
+Orissa,Phulbani ( Kandhamal ),LOAMY ALFISOL - 50% ; USTALF/USTOLLS - 50%,Average 30 years,13,25,28,58,102,192,274,277,246,157,45,8,1425
+Orissa,Puri,ORTHIDS - 50% ; LOAMY ALFISOLS - 50%,Average 30 years,9,20,14,12,63,187,296,256,258,242,75,8,1440
+Orissa,Sambalpur,USTALF/USTOLLS - 100%,Average 30 years,19,25,23,12,25,338,503,477,262,68,10,2,1764
+Orissa,Sundargarh,USTALF/USTOLLS - 100%,Average 30 years,19,33,21,31,76,246,426,379,232,81,22,4,1572
+West Bengal,24 Parganas,ORTHIDS - 100%,Average 30 years,13,21,30,57,157,298,362,348,280,164,33,5,1768
+West Bengal,Nadia,ORTHIDS - 100%,Average 30 years,11,23,31,60,141,252,281,271,205,130,26,3,1434
+West Bengal,Murshidabad,UDUPTS/UDALFS - 80% ; ORTHIDS - 20%,Average 30 years,13,19,18,37,115,219,295,302,226,127,16,4,1391
+West Bengal,Burdwan,UDUPTS/UDALFS - 75% ; ORTHIDS - 25%,Average 30 years,11,25,25,46,115,196,314,301,237,107,23,4,1404
+West Bengal,Birbhum,UDUPTS/UDALFS - 100%,Average 30 years,14,24,21,38,100,185,323,313,235,115,19,3,1391
+West Bengal,Bankura,USTALF/USTOLLS - 50% ; UDUPTS/UDALFS - 50%,Average 30 years,20,22,13,25,61,192,330,320,259,116,13,2,1373
+West Bengal,Hooghly,ORTHIDS - 85% ; UDUPTS/UDALFS - 15%,Average 30 years,12,23,30,52,132,348,316,308,243,127,28,4,1622
+West Bengal,Howrah,INCEPTISOLS - 100%,Average 30 years,14,23,28,47,125,497,318,321,269,152,32,4,1831
+West Bengal,Jalpaiguri,INCEPTISOLS - 100%,Average 30 years,9,14,30,151,340,710,776,663,537,143,14,3,3390
+West Bengal,Darjeeling,INCEPTISOLS - 100%,Average 30 years,22,27,52,109,187,522,713,573,419,116,14,5,2759
+West Bengal,Malda,INCEPTISOLS - 60% ; USTALF/USTOLLS - 40%,Average 30 years,13,18,15,28,104,232,303,288,276,118,13,2,1410
+West Bengal,Cooch Behar,INCEPTISOLS - 100%,Average 30 years,11,17,31,134,44,767,702,506,502,168,10,4,2896
+West Bengal,Purulia,USTALF/USTOLLS - 100%,Average 30 years,10,14,21,27,42,178,331,312,287,80,4,1,1307
+West Bengal,Midnapur,ORTHIDS - 100%,Average 30 years,14,28,32,42,111,244,322,340,272,145,35,3,1590
+West Bengal,Kolkata,ORTHIDS - 100%,Average 30 years,14,24,27,43,121,259,301,306,290,160,35,3,1583
+West Bengal,West Dinajpur,INCEPTISOLS - 60% ; UDUPTS/UDALFS - 40%,Average 30 years,13,15,21,60,202,413,478,411,358,139,11,2,2124
+Bihar,Champaran,INCEPTISOLS - 100%,Average 30 years,18,15,15,25,56,203,366,285,197,46,5,2,1234
+Bihar,Muzaffarpur,INCEPTISOLS - 100%,Average 30 years,16,15,13,20,57,198,334,300,234,54,6,2,1250
+Bihar,Darbhanga,INCEPTISOLS - 100%,Average 30 years,20,15,10,20,57,190,329,291,247,70,7,2,1258
+Bihar,Saharsa,INCEPTISOLS - 100%,Average 30 years,18,14,18,32,97,268,381,337,265,85,8,2,1525
+Bihar,Purnea,INCEPTISOLS - 100%,Average 30 years,16,16,13,30,100,238,363,329,267,102,8,1,1483
+Bihar,Saran,INCEPTISOLS - 100%,Average 30 years,18,16,11,17,39,181,335,294,206,44,5,2,1168
+Bihar,Patna,INCEPTISOLS - 100%,Average 30 years,21,20,7,8,28,139,266,307,243,63,6,2,1110
+Bihar,Mungair,USTALF/USTOLLS - 60% ; INCEPTISOLS - 40%,Average 30 years,33,5,9,8,38,108,248,226,196,81,3,1,956
+Bihar,Bhagalpur,INCEPTISOLS - 60% ; USTALF/USTOLLS - 40%,Average 30 years,35,4,6,9,48,208,253,251,246,79,5,2,1146
+Jharkhand,Santhal Paragana / Dumka,INCEPTISOLS - 100%,Average 30 years,16,20,14,26,80,209,294,285,251,106,12,2,1316
+Bihar,Shahabad (now part of Bhojpur district),INCEPTISOLS - 80% ; USTALF/USTOLLS - 20%,Average 30 years,19,19,9,8,17,134,283,319,216,46,7,3,1079
+Bihar,Gaya,USTALF/USTOLLS - 100%,Average 30 years,24,21,10,6,18,109,289,364,194,51,6,3,1095
+Jharkhand,Hazaribagh,USTALF/USTOLLS - 100%,Average 30 years,31,26,20,15,48,165,335,350,233,80,11,5,1319
+Jharkhand,Dhanbad,USTALF/USTOLLS - 100%,Average 30 years,16,22,16,16,41,160,249,347,229,90,9,3,1198
+Jharkhand,Palamau,USTALF/USTOLLS - 100%,Average 30 years,31,27,21,9,13,140,346,358,224,57,7,4,1237
+Jharkhand,Ranchi,USTALF/USTOLLS - 100%,Average 30 years,24,39,28,23,50,202,360,354,256,105,17,4,1462
+Jharkhand,Singhbhum,USTALF/USTOLLS - 100%,Average 30 years,15,28,24,27,66,197,336,336,217,88,19,2,1353
+Tamil Nadu,Chennai,,Average 30 years,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
